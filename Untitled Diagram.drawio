@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T16:52:11.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="7UNGLKfYWCyqu2dJoQRz" version="15.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T16:57:47.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="99vsgPPaqMzdhcNpl3XE" version="15.8.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2272" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -564,6 +564,9 @@
         </mxCell>
         <mxCell id="PuIkgESSQMV176HplpMt-194" value="&lt;span&gt;[&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;{platform,nbrVisits}&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;div&gt;&lt;span&gt;]&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
           <mxGeometry x="-70" y="325" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PuIkgESSQMV176HplpMt-198" value="users pages + users products" style="shape=note;size=20;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="840" width="110" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
