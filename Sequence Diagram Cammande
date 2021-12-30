@@ -1,1 +1,190 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T15:06:47.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="KX_3bS8gnJnFwRWgTADF" version="16.0.0" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-30T15:47:49.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="yyK7Pm7RvPMcQFSwNmk-" version="16.0.0" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="1822" dy="857" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-2" value="SYSTEM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-4" value="Client" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="20" height="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-5" value="Opratue" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="80" width="20" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="420" y="160" width="10" height="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-7" value="Passer La Commande" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="110" y="200" as="sourcePoint" />
+            <mxPoint x="400" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-8" value="Liste Des COmmandes" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="440" y="220" as="sourcePoint" />
+            <mxPoint x="730" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-9" value="Vérifier Une Commande" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="730" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-10" value="Page de Vérification Commande" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="280" as="sourcePoint" />
+            <mxPoint x="730" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-12" value="Choisir Le Dépôt" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-13" value="Afficher L&#39;etat de La commande base sur le depot" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="360" as="sourcePoint" />
+            <mxPoint x="730" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-14" value="Valider ou saisir une achat" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="730" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-16" value="SI" style="shape=umlFrame;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;width=40;height=30;" vertex="1" parent="1">
+          <mxGeometry x="310" y="430" width="570" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-17" value="[ La commende&#xa;est Valider]" style="text;align=center;" vertex="1" parent="eAPUbZ3J-gWx2unImsUH-16">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="20" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-18" value="[Saisi L&#39;Achat]" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;" vertex="1" parent="eAPUbZ3J-gWx2unImsUH-16">
+          <mxGeometry y="40" width="570" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-21" value="Définir la commande comme valide" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;dashed=1;" edge="1" parent="eAPUbZ3J-gWx2unImsUH-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="122.14285714285714" y="53.2258064516129" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="152.67857142857142" y="53.2258064516129" />
+            </Array>
+            <mxPoint x="127.23214285714285" y="74.51612903225806" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-22" value="afficher le formulaire pour créer un BR &lt;br&gt;basé sur les produits commandés" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;dashed=1;" edge="1" parent="eAPUbZ3J-gWx2unImsUH-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="149.03225806451613" as="sourcePoint" />
+            <mxPoint x="420" y="149.03225806451613" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-23" value="Enregistrer BR" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="eAPUbZ3J-gWx2unImsUH-16">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="420" y="190" as="sourcePoint" />
+            <mxPoint x="130" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-24" value="&lt;h2 class=&quot;d-none text-dark d-lg-flex align-items-center mb-0 h3&quot; style=&quot;box-sizing: border-box ; border-width: 0px ; border-style: solid ; border-color: rgb(210 , 214 , 220) ; margin: 0px ; font-weight: 500 ; line-height: 1.2 ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;sans-serif&amp;#34; ; display: flex ; align-items: center ; color: rgb(24 , 28 , 50)&quot;&gt;&lt;font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Désignation des prix Auto&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/h2&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="eAPUbZ3J-gWx2unImsUH-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="210" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="160" y="210" />
+            </Array>
+            <mxPoint x="130" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-25" value="Afficher L&#39;etat de La commande base sur le depot" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;dashed=1;" edge="1" parent="eAPUbZ3J-gWx2unImsUH-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="270" as="sourcePoint" />
+            <mxPoint x="420" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-26" value="Valider la commande" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="eAPUbZ3J-gWx2unImsUH-16">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="420" y="310" as="sourcePoint" />
+            <mxPoint x="130" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="eAPUbZ3J-gWx2unImsUH-16" target="eAPUbZ3J-gWx2unImsUH-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-36" value="Demande de validation" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="410" y="800" as="sourcePoint" />
+            <mxPoint x="120" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-37" value="Valider ou Annuler" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="840" as="sourcePoint" />
+            <mxPoint x="410" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-38" value="Statment" style="shape=umlFrame;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;width=80;height=30;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="910" width="1080" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-39" value="[Valider]" style="text" vertex="1" parent="eAPUbZ3J-gWx2unImsUH-38">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="20" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-40" value="[Annuler]" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;" vertex="1" parent="eAPUbZ3J-gWx2unImsUH-38">
+          <mxGeometry y="310" width="1080" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-41" value="Show la commande comme valide" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;dashed=1;" edge="1" parent="eAPUbZ3J-gWx2unImsUH-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="569.9987644787648" y="50.02580645161288" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="614.5644015444016" y="50.02580645161288" />
+            </Array>
+            <mxPoint x="577.4263706563704" y="71.316129032258" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-42" value="Payement Method" style="shape=umlFrame;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;width=140;height=30;" vertex="1" parent="eAPUbZ3J-gWx2unImsUH-38">
+          <mxGeometry x="70" y="100" width="650" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-43" value="[Cart]" style="text" vertex="1" parent="eAPUbZ3J-gWx2unImsUH-42">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="20" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-44" value="[à la livraison]" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;" vertex="1" parent="eAPUbZ3J-gWx2unImsUH-42">
+          <mxGeometry y="120" width="650" height="7.199999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-46" value="Rediriger vers CMI" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="eAPUbZ3J-gWx2unImsUH-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="60" as="sourcePoint" />
+            <mxPoint x="170" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-47" value="Terminer la commande" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="eAPUbZ3J-gWx2unImsUH-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="100" as="sourcePoint" />
+            <mxPoint x="460" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-48" value="Terminer la commande" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="eAPUbZ3J-gWx2unImsUH-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="160" as="sourcePoint" />
+            <mxPoint x="460" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eAPUbZ3J-gWx2unImsUH-45" value="Show la commande comme Annuler" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;dashed=1;" edge="1" parent="eAPUbZ3J-gWx2unImsUH-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="579.9987644787648" y="350.0258064516129" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="624.5644015444016" y="350.0258064516129" />
+            </Array>
+            <mxPoint x="587.4263706563706" y="371.316129032258" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
