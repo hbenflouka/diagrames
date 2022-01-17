@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T13:45:55.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="TLmUD7He7PrYA2gQwtfW" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T13:46:40.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="SQdQhrt2zrJIJg1SAlYe" version="16.2.4" type="github">
   <diagram id="3N3_pvSnHtvoAWt2PgE6" name="Page-1">
     <mxGraphModel dx="1778" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -2113,7 +2113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XVvkIKxPT36jA2qK3fWD-62" value="stock_lignes" style="shape=table;startSize=20;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="-670" width="180" height="670" as="geometry" />
+          <mxGeometry x="1010" y="-670" width="180" height="670" as="geometry" />
         </mxCell>
         <mxCell id="XVvkIKxPT36jA2qK3fWD-63" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XVvkIKxPT36jA2qK3fWD-62">
           <mxGeometry y="20" width="180" height="30" as="geometry" />
@@ -3153,6 +3153,16 @@
         </mxCell>
         <mxCell id="XVvkIKxPT36jA2qK3fWD-338" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XVvkIKxPT36jA2qK3fWD-302" target="XVvkIKxPT36jA2qK3fWD-63">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XVvkIKxPT36jA2qK3fWD-339" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XVvkIKxPT36jA2qK3fWD-335" target="XVvkIKxPT36jA2qK3fWD-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="-285" />
+              <mxPoint x="880" y="-720" />
+              <mxPoint x="1300" y="-720" />
+              <mxPoint x="1300" y="-595" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
