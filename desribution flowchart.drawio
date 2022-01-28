@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T15:46:10.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="R6CSovt9YvkBaisD4iyR" version="16.4.11" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-28T15:51:05.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="jhpnw1B3QCqopQejPeVS" version="16.4.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1138" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,6 +167,28 @@
         </mxCell>
         <mxCell id="6I1QFMfVsTtFcKt_bIl5-108" value="donnée nécessaire:&lt;br&gt;-client&lt;br&gt;-type livraison&lt;br&gt;-date livraison&lt;br&gt;-FCH Temps&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="280" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6I1QFMfVsTtFcKt_bIl5-113" value="Gestion" style="swimlane;horizontal=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="1320" width="290" height="800" as="geometry">
+            <mxRectangle x="270" y="1540" width="30" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6I1QFMfVsTtFcKt_bIl5-114" value="Agent Saisie" style="swimlane;horizontal=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="55" y="1670" width="185" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6I1QFMfVsTtFcKt_bIl5-115" value="Gestion" style="swimlane;horizontal=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="850" width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6I1QFMfVsTtFcKt_bIl5-116" value="Commercial" style="swimlane;horizontal=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="160" width="290" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="6I1QFMfVsTtFcKt_bIl5-117" value="Magasinier" style="swimlane;horizontal=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="1060" width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6I1QFMfVsTtFcKt_bIl5-118" value="Livreur" style="swimlane;horizontal=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="2150" width="290" height="770" as="geometry">
+            <mxRectangle x="270" y="1540" width="30" height="150" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
