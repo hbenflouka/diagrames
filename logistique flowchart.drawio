@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-31T11:15:46.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="RuRG6YPDz171XaX6tFIK" version="16.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-31T13:03:05.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="IAQMrwp3ScZdFvcjXNRh" version="16.5.1" type="github">
   <diagram id="R2fejQ-cAysWn4t1BdOC" name="Page-1">
     <mxGraphModel dx="1422" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -47,9 +47,6 @@
         </mxCell>
         <mxCell id="J7lf5xHKEmh0_3CaDGTx-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J7lf5xHKEmh0_3CaDGTx-13" target="J7lf5xHKEmh0_3CaDGTx-28">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J7lf5xHKEmh0_3CaDGTx-13" value="Choix Magasinier" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J7lf5xHKEmh0_3CaDGTx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J7lf5xHKEmh0_3CaDGTx-15" target="J7lf5xHKEmh0_3CaDGTx-17">
           <mxGeometry relative="1" as="geometry" />
@@ -132,6 +129,9 @@
         </mxCell>
         <mxCell id="J7lf5xHKEmh0_3CaDGTx-35" value="Gestion" style="swimlane;horizontal=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="240" y="850" width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="J7lf5xHKEmh0_3CaDGTx-13" value="Choix Magasinier" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="J7lf5xHKEmh0_3CaDGTx-35">
+          <mxGeometry x="90" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J7lf5xHKEmh0_3CaDGTx-36" value="Commercial" style="swimlane;horizontal=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="290" height="400" as="geometry" />
