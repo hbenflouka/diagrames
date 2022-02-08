@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T16:42:22.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="X0znVO8dVaFtNBlej4mN" version="16.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-08T16:43:45.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="nQ-eOrdOoxENSb4qBCF-" version="16.5.1" type="github">
   <diagram id="jdVWw1EfKwRY6dixrHXG" name="Page-1">
     <mxGraphModel dx="-8215" dy="4862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -3264,7 +3264,7 @@
         <mxCell id="s6Jk1IY3MyQcFSUlvTiL-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s6Jk1IY3MyQcFSUlvTiL-87" target="s6Jk1IY3MyQcFSUlvTiL-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s6Jk1IY3MyQcFSUlvTiL-119" value="bon_commande_lignes" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="s6Jk1IY3MyQcFSUlvTiL-119" value="bon_commande_lignes_anuller" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="11560" y="-2480" width="250" height="370" as="geometry" />
         </mxCell>
         <mxCell id="s6Jk1IY3MyQcFSUlvTiL-120" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="s6Jk1IY3MyQcFSUlvTiL-119">
