@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T11:35:19.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="rsCb7auc9w72X8ulCSG4" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-05T11:35:30.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="KK3tfhAAD4ZIiRf2v1cW" version="16.6.1" type="github">
   <diagram id="KmzNC6HRaK3EFaQDn8oD" name="Page-1">
     <mxGraphModel dx="-10156" dy="3252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1680,7 +1680,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-PeSlkL0KOP0sJV_YY2P-590" value="commande lignes annulee" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="11600" y="1330" width="250" height="400" as="geometry" />
+          <mxGeometry x="11680" y="1370" width="250" height="400" as="geometry" />
         </mxCell>
         <mxCell id="-PeSlkL0KOP0sJV_YY2P-591" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-PeSlkL0KOP0sJV_YY2P-590">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
