@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T13:20:30.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="FgVUD8CYZhi4gM3lg3Uz" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-05T13:22:14.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="w5J8JOiQ3_PTPV-DG5ps" version="16.6.1" type="github">
   <diagram id="KmzNC6HRaK3EFaQDn8oD" name="Page-1">
     <mxGraphModel dx="-9547" dy="3644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -654,7 +654,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-PeSlkL0KOP0sJV_YY2P-325" value="commande_lignes" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="12080" y="120" width="240" height="410" as="geometry" />
+          <mxGeometry x="11670" y="1280" width="240" height="410" as="geometry" />
         </mxCell>
         <mxCell id="-PeSlkL0KOP0sJV_YY2P-326" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-PeSlkL0KOP0sJV_YY2P-325">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
@@ -1245,7 +1245,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-PeSlkL0KOP0sJV_YY2P-468" value="bon commande en attente" style="shape=table;startSize=40;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="11680" y="1280" width="240" height="700" as="geometry" />
+          <mxGeometry x="12080" y="120" width="240" height="700" as="geometry" />
         </mxCell>
         <mxCell id="-PeSlkL0KOP0sJV_YY2P-469" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-PeSlkL0KOP0sJV_YY2P-468">
           <mxGeometry y="40" width="240" height="30" as="geometry" />
@@ -1680,7 +1680,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-PeSlkL0KOP0sJV_YY2P-590" value="commande lignes annulee" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="11680" y="2522" width="240" height="400" as="geometry" />
+          <mxGeometry x="11880" y="1740" width="240" height="400" as="geometry" />
         </mxCell>
         <mxCell id="-PeSlkL0KOP0sJV_YY2P-591" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-PeSlkL0KOP0sJV_YY2P-590">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
@@ -2024,7 +2024,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-PeSlkL0KOP0sJV_YY2P-670" value="depots catgeories priorites" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="12120" y="2522" width="200" height="160" as="geometry" />
+          <mxGeometry x="11870" y="2590" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-PeSlkL0KOP0sJV_YY2P-671" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="-PeSlkL0KOP0sJV_YY2P-670">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
@@ -2193,6 +2193,9 @@
         </mxCell>
         <mxCell id="-PeSlkL0KOP0sJV_YY2P-710" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Validee Bon Commande&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="11780" y="20" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-PeSlkL0KOP0sJV_YY2P-711" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;Categories Depots Priorite&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="11812" y="2400" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
