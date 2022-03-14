@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T11:16:55.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="SdfjGXHALpsp384CeKoZ" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T15:50:09.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="UtQKV5Pc7QbjStpFWooi" version="17.1.2" type="github">
   <diagram id="jdVWw1EfKwRY6dixrHXG" name="Page-1">
-    <mxGraphModel dx="-9563" dy="3995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="-8612" dy="4606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4542,7 +4542,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z6iRl5obxlOp2zO-yq_z-170" value="denomination" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="z6iRl5obxlOp2zO-yq_z-168">
+        <mxCell id="z6iRl5obxlOp2zO-yq_z-170" value="annexe_nom  " style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="z6iRl5obxlOp2zO-yq_z-168">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
