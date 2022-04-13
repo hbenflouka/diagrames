@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T14:22:11.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="rg7cP6Fk78PwA-kl6Z7c" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T14:23:23.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="g5ecd5cTd8KG3hMiORcS" version="17.4.2" type="github">
   <diagram id="jdVWw1EfKwRY6dixrHXG" name="Page-1">
-    <mxGraphModel dx="-6129" dy="6054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="-6080" dy="6361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2100,7 +2100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s6Jk1IY3MyQcFSUlvTiL-1" value="bon commande en attente" style="shape=table;startSize=40;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="11130" y="-1550" width="220" height="700" as="geometry" />
+          <mxGeometry x="11250" y="-2240" width="220" height="700" as="geometry" />
         </mxCell>
         <mxCell id="s6Jk1IY3MyQcFSUlvTiL-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="s6Jk1IY3MyQcFSUlvTiL-1" vertex="1">
           <mxGeometry y="40" width="220" height="30" as="geometry" />
@@ -3050,7 +3050,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="63zyIsz5m81K3HZtnrCb-19" value="bon_commandes" style="shape=table;startSize=40;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="12160" y="-3100" width="220" height="700" as="geometry" />
+          <mxGeometry x="12080" y="-3272" width="220" height="700" as="geometry" />
         </mxCell>
         <mxCell id="63zyIsz5m81K3HZtnrCb-20" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="63zyIsz5m81K3HZtnrCb-19" vertex="1">
           <mxGeometry y="40" width="220" height="30" as="geometry" />
@@ -4178,7 +4178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HpVtya3vAfCzj7GxDigg-135" value="fournisseurs" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="10960" y="-3050" width="180" height="190" as="geometry" />
+          <mxGeometry x="10920" y="-3160" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="HpVtya3vAfCzj7GxDigg-136" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="HpVtya3vAfCzj7GxDigg-135" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
