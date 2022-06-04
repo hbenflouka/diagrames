@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T10:15:22.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="4ng1migiBIW_brlkd-rw" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-04T10:16:14.323Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="JSmW-FStEM1NCEgP3ZBV" version="19.0.0" type="github">
   <diagram id="BVihMzFoWMBMrUpYhVlw" name="Page-1">
     <mxGraphModel dx="2204" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1585,7 +1585,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M9L2GmGferWyItQVjOw8-206" value="sales_methods" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="M9L2GmGferWyItQVjOw8-206" value="sales_types" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="-640" y="1160" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="M9L2GmGferWyItQVjOw8-207" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="M9L2GmGferWyItQVjOw8-206">
